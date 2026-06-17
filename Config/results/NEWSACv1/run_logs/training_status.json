@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    },
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\NEWSACv1\\MyCar\\MyCar-0.onnx",
+                "reward": null,
+                "creation_time": 1780963270.7301254,
+                "auxillary_file_paths": [
+                    "results\\NEWSACv1\\MyCar\\MyCar-0.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 0,
+            "file_path": "results\\NEWSACv1\\MyCar.onnx",
+            "reward": null,
+            "creation_time": 1780963270.7301254,
+            "auxillary_file_paths": [
+                "results\\NEWSACv1\\MyCar\\MyCar-0.pt"
+            ]
+        }
+    }
+}

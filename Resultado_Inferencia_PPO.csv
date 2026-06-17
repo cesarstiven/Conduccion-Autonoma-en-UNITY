@@ -1,0 +1,11 @@
+Intento,Algoritmo,RecompensaAcumulada,TiempoSegundos,Estado
+1,PPO,141.04,85.06,Vuelta Completa
+2,PPO,140.94,83.58,Vuelta Completa
+3,PPO,140.94,85.50,Vuelta Completa
+4,PPO,114.08,70.54,Fallo Terminal
+5,PPO,-1.00,0.00,Fallo Terminal
+6,PPO,139.96,84.26,Vuelta Completa
+7,PPO,141.32,87.28,Vuelta Completa
+8,PPO,140.85,85.10,Vuelta Completa
+9,PPO,140.48,83.32,Vuelta Completa
+10,PPO,141.00,85.12,Vuelta Completa

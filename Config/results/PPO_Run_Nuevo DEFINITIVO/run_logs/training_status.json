@@ -1,0 +1,65 @@
+{
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 1499949,
+                "file_path": "results\\PPO_Run_Nuevo\\MyCar\\MyCar-1499949.onnx",
+                "reward": 403.37082850933075,
+                "creation_time": 1780888464.5247607,
+                "auxillary_file_paths": [
+                    "results\\PPO_Run_Nuevo\\MyCar\\MyCar-1499949.pt"
+                ]
+            },
+            {
+                "steps": 1999966,
+                "file_path": "results\\PPO_Run_Nuevo\\MyCar\\MyCar-1999966.onnx",
+                "reward": 204.55061101913452,
+                "creation_time": 1780890185.9660156,
+                "auxillary_file_paths": [
+                    "results\\PPO_Run_Nuevo\\MyCar\\MyCar-1999966.pt"
+                ]
+            },
+            {
+                "steps": 2499951,
+                "file_path": "results\\PPO_Run_Nuevo\\MyCar\\MyCar-2499951.onnx",
+                "reward": 447.77122886975604,
+                "creation_time": 1780890936.8381827,
+                "auxillary_file_paths": [
+                    "results\\PPO_Run_Nuevo\\MyCar\\MyCar-2499951.pt"
+                ]
+            },
+            {
+                "steps": 2999943,
+                "file_path": "results\\PPO_Run_Nuevo\\MyCar\\MyCar-2999943.onnx",
+                "reward": 209.63035345077515,
+                "creation_time": 1780891677.1634007,
+                "auxillary_file_paths": [
+                    "results\\PPO_Run_Nuevo\\MyCar\\MyCar-2999943.pt"
+                ]
+            },
+            {
+                "steps": 3121293,
+                "file_path": "results\\PPO_Run_Nuevo\\MyCar\\MyCar-3121293.onnx",
+                "reward": 51.2362904548645,
+                "creation_time": 1780891847.4352612,
+                "auxillary_file_paths": [
+                    "results\\PPO_Run_Nuevo\\MyCar\\MyCar-3121293.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3121293,
+            "file_path": "results\\PPO_Run_Nuevo\\MyCar.onnx",
+            "reward": 51.2362904548645,
+            "creation_time": 1780891847.4352612,
+            "auxillary_file_paths": [
+                "results\\PPO_Run_Nuevo\\MyCar\\MyCar-3121293.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}

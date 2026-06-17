@@ -1,0 +1,47 @@
+{
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 499865,
+                "file_path": "results\\McLaren_Intento2_PistaNueva\\MyCar\\MyCar-499865.onnx",
+                "reward": null,
+                "creation_time": 1780340784.3904164,
+                "auxillary_file_paths": [
+                    "results\\McLaren_Intento2_PistaNueva\\MyCar\\MyCar-499865.pt"
+                ]
+            },
+            {
+                "steps": 999874,
+                "file_path": "results\\McLaren_Intento2_PistaNueva\\MyCar\\MyCar-999874.onnx",
+                "reward": null,
+                "creation_time": 1780342873.004949,
+                "auxillary_file_paths": [
+                    "results\\McLaren_Intento2_PistaNueva\\MyCar\\MyCar-999874.pt"
+                ]
+            },
+            {
+                "steps": 1084580,
+                "file_path": "results\\McLaren_Intento2_PistaNueva\\MyCar\\MyCar-1084580.onnx",
+                "reward": null,
+                "creation_time": 1780343270.979234,
+                "auxillary_file_paths": [
+                    "results\\McLaren_Intento2_PistaNueva\\MyCar\\MyCar-1084580.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1084580,
+            "file_path": "results\\McLaren_Intento2_PistaNueva\\MyCar.onnx",
+            "reward": null,
+            "creation_time": 1780343270.979234,
+            "auxillary_file_paths": [
+                "results\\McLaren_Intento2_PistaNueva\\MyCar\\MyCar-1084580.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}

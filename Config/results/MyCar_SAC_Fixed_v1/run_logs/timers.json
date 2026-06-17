@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1781056847",
+        "python_version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\cesar\\Documents\\GitHub\\Unity-Driving-System\\venv_mlagents\\Scripts\\mlagents-learn trainer_sac.yaml --run-id=MyCar_SAC_Fixed_v1 --timeout-wait=120",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.12.0+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1781056907"
+    },
+    "total": 60.006822300000294,
+    "count": 1,
+    "self": 0.00966160000052696,
+    "children": {
+        "run_training.setup": {
+            "total": 0.2107123999999203,
+            "count": 1,
+            "self": 0.2107123999999203
+        },
+        "TrainerController.start_learning": {
+            "total": 59.78644829999985,
+            "count": 1,
+            "self": 0.00039690000039627193,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 59.786042299999735,
+                    "count": 1,
+                    "self": 59.786042299999735
+                },
+                "trainer_threads": {
+                    "total": 1.500000053056283e-06,
+                    "count": 1,
+                    "self": 1.500000053056283e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 7.599999662488699e-06,
+                    "count": 1,
+                    "self": 7.599999662488699e-06
+                }
+            }
+        }
+    }
+}

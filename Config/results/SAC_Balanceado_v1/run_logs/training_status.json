@@ -1,0 +1,47 @@
+{
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 156742,
+                "file_path": "results\\SAC_Balanceado_v1\\MyCar\\MyCar-156742.onnx",
+                "reward": null,
+                "creation_time": 1781400368.5573788,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v1\\MyCar\\MyCar-156742.pt"
+                ]
+            },
+            {
+                "steps": 199848,
+                "file_path": "results\\SAC_Balanceado_v1\\MyCar\\MyCar-199848.onnx",
+                "reward": null,
+                "creation_time": 1781401779.9569361,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v1\\MyCar\\MyCar-199848.pt"
+                ]
+            },
+            {
+                "steps": 363389,
+                "file_path": "results\\SAC_Balanceado_v1\\MyCar\\MyCar-363389.onnx",
+                "reward": null,
+                "creation_time": 1781402520.1304717,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v1\\MyCar\\MyCar-363389.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 363389,
+            "file_path": "results\\SAC_Balanceado_v1\\MyCar.onnx",
+            "reward": null,
+            "creation_time": 1781402520.1304717,
+            "auxillary_file_paths": [
+                "results\\SAC_Balanceado_v1\\MyCar\\MyCar-363389.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}

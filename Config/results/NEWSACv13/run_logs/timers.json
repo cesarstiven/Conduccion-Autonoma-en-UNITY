@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1780976022",
+        "python_version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\cesar\\Documents\\GitHub\\Unity-Driving-System\\venv_mlagents\\Scripts\\mlagents-learn trainer_sac.yaml --run-id=NEWSACv13 --base-port=5012",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.12.0+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1780976086"
+    },
+    "total": 63.01135880000038,
+    "count": 1,
+    "self": 0.009236300000338815,
+    "children": {
+        "run_training.setup": {
+            "total": 0.3186966000012035,
+            "count": 1,
+            "self": 0.3186966000012035
+        },
+        "TrainerController.start_learning": {
+            "total": 62.68342589999884,
+            "count": 1,
+            "self": 0.00013219999891589396,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 62.683258600000045,
+                    "count": 1,
+                    "self": 62.683258600000045
+                },
+                "TrainerController._save_models": {
+                    "total": 3.509999987727497e-05,
+                    "count": 1,
+                    "self": 3.509999987727497e-05
+                }
+            }
+        }
+    }
+}

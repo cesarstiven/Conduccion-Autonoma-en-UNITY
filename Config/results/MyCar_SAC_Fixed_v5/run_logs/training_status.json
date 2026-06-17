@@ -1,0 +1,20 @@
+{
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 39404,
+                "file_path": "results\\MyCar_SAC_Fixed_v5\\MyCar\\MyCar-39404.onnx",
+                "reward": null,
+                "creation_time": 1781060136.9624712,
+                "auxillary_file_paths": [
+                    "results\\MyCar_SAC_Fixed_v5\\MyCar\\MyCar-39404.pt"
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}

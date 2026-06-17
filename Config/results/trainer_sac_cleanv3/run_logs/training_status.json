@@ -1,0 +1,56 @@
+{
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 199966,
+                "file_path": "results\\trainer_sac_cleanv3\\MyCar\\MyCar-199966.onnx",
+                "reward": null,
+                "creation_time": 1781375399.2458382,
+                "auxillary_file_paths": [
+                    "results\\trainer_sac_cleanv3\\MyCar\\MyCar-199966.pt"
+                ]
+            },
+            {
+                "steps": 399816,
+                "file_path": "results\\trainer_sac_cleanv3\\MyCar\\MyCar-399816.onnx",
+                "reward": null,
+                "creation_time": 1781376681.8214228,
+                "auxillary_file_paths": [
+                    "results\\trainer_sac_cleanv3\\MyCar\\MyCar-399816.pt"
+                ]
+            },
+            {
+                "steps": 599932,
+                "file_path": "results\\trainer_sac_cleanv3\\MyCar\\MyCar-599932.onnx",
+                "reward": null,
+                "creation_time": 1781378580.2136488,
+                "auxillary_file_paths": [
+                    "results\\trainer_sac_cleanv3\\MyCar\\MyCar-599932.pt"
+                ]
+            },
+            {
+                "steps": 603334,
+                "file_path": "results\\trainer_sac_cleanv3\\MyCar\\MyCar-603334.onnx",
+                "reward": null,
+                "creation_time": 1781378741.5108182,
+                "auxillary_file_paths": [
+                    "results\\trainer_sac_cleanv3\\MyCar\\MyCar-603334.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 603334,
+            "file_path": "results\\trainer_sac_cleanv3\\MyCar.onnx",
+            "reward": null,
+            "creation_time": 1781378741.5108182,
+            "auxillary_file_paths": [
+                "results\\trainer_sac_cleanv3\\MyCar\\MyCar-603334.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}

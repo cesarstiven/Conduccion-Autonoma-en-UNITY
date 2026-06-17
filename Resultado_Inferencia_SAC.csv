@@ -1,0 +1,11 @@
+Intento,Algoritmo,RecompensaAcumulada,TiempoSegundos,Estado
+1,SAC,114.15,75.02,Fallo Terminal
+3,SAC,140.87,85.20,Vuelta Completa
+3,SAC,139.87,87.30,Vuelta Completa
+4,SAC,140.92,86.70,Vuelta Completa
+5,SAC,140.98,88.88,Vuelta Completa
+6,SAC,141.07,91.02,Vuelta Completa
+7,SAC,141.07,86.92,Vuelta Completa
+8,SAC,140.82,89.42,Vuelta Completa
+9,SAC,140.95,86.62,Vuelta Completa
+10,SAC,140.84,86.84,Vuelta Completa

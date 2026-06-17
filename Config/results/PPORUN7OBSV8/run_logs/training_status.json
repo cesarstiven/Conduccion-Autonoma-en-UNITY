@@ -1,0 +1,65 @@
+{
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 1499991,
+                "file_path": "results\\PPORUN7OBSV8\\MyCar\\MyCar-1499991.onnx",
+                "reward": -0.8420351194006137,
+                "creation_time": 1780869380.5153825,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV8\\MyCar\\MyCar-1499991.pt"
+                ]
+            },
+            {
+                "steps": 1999972,
+                "file_path": "results\\PPORUN7OBSV8\\MyCar\\MyCar-1999972.onnx",
+                "reward": -0.5518717409835922,
+                "creation_time": 1780870138.944911,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV8\\MyCar\\MyCar-1999972.pt"
+                ]
+            },
+            {
+                "steps": 2499945,
+                "file_path": "results\\PPORUN7OBSV8\\MyCar\\MyCar-2499945.onnx",
+                "reward": -0.559442275762558,
+                "creation_time": 1780870889.2244446,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV8\\MyCar\\MyCar-2499945.pt"
+                ]
+            },
+            {
+                "steps": 2999994,
+                "file_path": "results\\PPORUN7OBSV8\\MyCar\\MyCar-2999994.onnx",
+                "reward": -0.545767683673788,
+                "creation_time": 1780871645.9519663,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV8\\MyCar\\MyCar-2999994.pt"
+                ]
+            },
+            {
+                "steps": 3053074,
+                "file_path": "results\\PPORUN7OBSV8\\MyCar\\MyCar-3053074.onnx",
+                "reward": null,
+                "creation_time": 1780871722.7313209,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV8\\MyCar\\MyCar-3053074.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3053074,
+            "file_path": "results\\PPORUN7OBSV8\\MyCar.onnx",
+            "reward": null,
+            "creation_time": 1780871722.7313209,
+            "auxillary_file_paths": [
+                "results\\PPORUN7OBSV8\\MyCar\\MyCar-3053074.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}

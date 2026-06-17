@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    },
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\PPORUN7OBSV1\\MyCar\\MyCar-0.onnx",
+                "reward": null,
+                "creation_time": 1780862593.93586,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV1\\MyCar\\MyCar-0.pt"
+                ]
+            },
+            {
+                "steps": 499949,
+                "file_path": "results\\PPORUN7OBSV1\\MyCar\\MyCar-499949.onnx",
+                "reward": 17.366747779399155,
+                "creation_time": 1780864136.895185,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV1\\MyCar\\MyCar-499949.pt"
+                ]
+            },
+            {
+                "steps": 550288,
+                "file_path": "results\\PPORUN7OBSV1\\MyCar\\MyCar-550288.onnx",
+                "reward": 23.23439084837446,
+                "creation_time": 1780864191.580111,
+                "auxillary_file_paths": [
+                    "results\\PPORUN7OBSV1\\MyCar\\MyCar-550288.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 550288,
+            "file_path": "results\\PPORUN7OBSV1\\MyCar.onnx",
+            "reward": 23.23439084837446,
+            "creation_time": 1780864191.580111,
+            "auxillary_file_paths": [
+                "results\\PPORUN7OBSV1\\MyCar\\MyCar-550288.pt"
+            ]
+        }
+    }
+}
