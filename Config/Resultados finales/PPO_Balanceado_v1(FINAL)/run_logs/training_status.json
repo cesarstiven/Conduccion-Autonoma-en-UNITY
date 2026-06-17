@@ -1,0 +1,65 @@
+{
+    "MyCarPPO": {
+        "checkpoints": [
+            {
+                "steps": 1399965,
+                "file_path": "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1399965.onnx",
+                "reward": null,
+                "creation_time": 1781410718.3175886,
+                "auxillary_file_paths": [
+                    "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1399965.pt"
+                ]
+            },
+            {
+                "steps": 1599977,
+                "file_path": "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1599977.onnx",
+                "reward": null,
+                "creation_time": 1781411111.7325008,
+                "auxillary_file_paths": [
+                    "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1599977.pt"
+                ]
+            },
+            {
+                "steps": 1799960,
+                "file_path": "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1799960.onnx",
+                "reward": 398.2558081150055,
+                "creation_time": 1781411381.32539,
+                "auxillary_file_paths": [
+                    "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1799960.pt"
+                ]
+            },
+            {
+                "steps": 1999998,
+                "file_path": "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1999998.onnx",
+                "reward": null,
+                "creation_time": 1781411670.9627635,
+                "auxillary_file_paths": [
+                    "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-1999998.pt"
+                ]
+            },
+            {
+                "steps": 2000062,
+                "file_path": "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-2000062.onnx",
+                "reward": null,
+                "creation_time": 1781411671.0314393,
+                "auxillary_file_paths": [
+                    "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-2000062.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000062,
+            "file_path": "results\\PPO_Balanceado_v1\\MyCarPPO.onnx",
+            "reward": null,
+            "creation_time": 1781411671.0314393,
+            "auxillary_file_paths": [
+                "results\\PPO_Balanceado_v1\\MyCarPPO\\MyCarPPO-2000062.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}

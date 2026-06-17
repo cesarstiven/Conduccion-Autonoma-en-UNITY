@@ -1,0 +1,65 @@
+{
+    "MyCar": {
+        "checkpoints": [
+            {
+                "steps": 1399747,
+                "file_path": "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1399747.onnx",
+                "reward": null,
+                "creation_time": 1781414345.1535933,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1399747.pt"
+                ]
+            },
+            {
+                "steps": 1599942,
+                "file_path": "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1599942.onnx",
+                "reward": null,
+                "creation_time": 1781415102.8499827,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1599942.pt"
+                ]
+            },
+            {
+                "steps": 1799989,
+                "file_path": "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1799989.onnx",
+                "reward": null,
+                "creation_time": 1781415827.8708947,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1799989.pt"
+                ]
+            },
+            {
+                "steps": 1999775,
+                "file_path": "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1999775.onnx",
+                "reward": null,
+                "creation_time": 1781416610.791091,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v2\\MyCar\\MyCar-1999775.pt"
+                ]
+            },
+            {
+                "steps": 2097152,
+                "file_path": "results\\SAC_Balanceado_v2\\MyCar\\MyCar-2097152.onnx",
+                "reward": null,
+                "creation_time": 1781417041.198355,
+                "auxillary_file_paths": [
+                    "results\\SAC_Balanceado_v2\\MyCar\\MyCar-2097152.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2097152,
+            "file_path": "results\\SAC_Balanceado_v2\\MyCar.onnx",
+            "reward": null,
+            "creation_time": 1781417041.198355,
+            "auxillary_file_paths": [
+                "results\\SAC_Balanceado_v2\\MyCar\\MyCar-2097152.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.12.0+cpu"
+    }
+}
