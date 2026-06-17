@@ -70,10 +70,12 @@ venv_mlagents\Scripts\activate    # Windows
 source venv_mlagents/bin/activate # Linux/Mac
 ```
 
-3. Instala las dependencias:
+3. Instala las dependencias desde `requirements.txt`:
 ```bash
-pip install mlagents
+pip install -r requirements.txt
 ```
+
+> El archivo `requirements.txt` incluido fija las versiones exactas usadas en este proyecto, entre ellas `mlagents==1.1.0`, `mlagents-envs==1.1.0`, `torch==2.12.0` y `numpy==1.23.5`. Respetar estas versiones evita conflictos de compatibilidad, especialmente con `numpy` (debe ser <2.0) y `torch`.
 
 4. Abre el proyecto desde Unity Hub apuntando a la carpeta raíz del repositorio. Unity regenerará automáticamente las carpetas `Library/` y `Temp/`.
 
