@@ -104,3 +104,16 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+# ML-Agents / Python
+venv_mlagents/
+__pycache__/
+*.pyc
+*.pyo
+
+# Resultados de entrenamiento (opcional, pesan mucho)
+results/
+
+# Configs locales si las tienes fuera de Assets
+*.onnx.meta
+
+LocalPackages/
